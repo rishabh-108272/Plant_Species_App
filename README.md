@@ -39,12 +39,6 @@ The project is divided into the following main components:
 - Node.js and npm (for React Native)
 - Expo CLI
 
-### Clone the Repositories
-
-```bash
-git clone https://github.com/yourusername/your-cnn-model-repo.git
-git clone https://github.com/yourusername/your-description-extractor-repo.git
-```
 
 ### Running the Deep Learning Models
 
